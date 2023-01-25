@@ -10,3 +10,6 @@ exp-3 arthamatic operators
 
 exp-4 Area of different shape
 ![image](https://user-images.githubusercontent.com/112853892/214485045-23f8e351-8b45-41e0-bcdd-2b43d4b79e91.png)
+
+exp-5 Largest of three numbers 
+![image](https://user-images.githubusercontent.com/112853892/214488179-46945e92-458e-460c-9a8d-87b7c7d31f0e.png)
